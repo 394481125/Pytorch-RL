@@ -63,3 +63,4 @@
 |[MatD3: A Database and Online Presentation Package for Research Data Supporting Materials Discovery, Design, and Dissemination(MATD3)](https://arxiv.org/abs/2001.02135)|MATD3|❌|
 |[Mastering the game of Go with deep neural networks and tree search(AlphaGo)](https://www.nature.com/articles/nature16961)|AlphaGo|❌|
 |[Mastering the game of Go without human knowledge(AlphaGoZero)](https://www.nature.com/articles/nature24270.)|AlphaGoZero|❌|
+|...|...|...|
