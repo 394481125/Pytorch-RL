@@ -14,6 +14,7 @@
 |[Dueling Network Architectures for Deep Reinforcement Learning(D3QN)](http://arxiv.org/pdf/1511.06581)|REDQ|❌|2016|
 |[Dueling DQN](https://arxiv.org/pdf/1511.06581.pdf)|Dueling-DQN|❌|2016|
 |[Advantage Actor-Critic (A2C)](https://arxiv.org/abs/1602.01783)|A2C|❌|2016|
+|[Asynchronous Methods for Deep Reinforcement Learning (A3C)](https://arxiv.org/abs/1602.01783)|A3C|❌|2016|
 |[Sample Efficient Actor-Critic with Experience Replay (ACER)](https://arxiv.org/abs/1611.01224)|ACER|❌|2016|
 |[Generative Adversarial Imitation Learning (GAIL)](https://arxiv.org/pdf/1606.03476.pdf)|GAIL|❌|2016|
 |[Phasic Policy Gradient (COMA)](https://proceedings.neurips.cc/paper/2016/file/c7635bfd99248a2cdef8249ef7bfbef4-Paper.pdf)|COMA|❌|2016|
